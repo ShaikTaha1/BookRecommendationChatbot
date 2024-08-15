@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+requests
+pydantic
+sentence-transformers
+streamlit
+python-dotenv
+torch
+weaviate-client
+transformers
+datasets

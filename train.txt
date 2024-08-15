@@ -1,0 +1,114 @@
+Input: "I'm feeling very sad and need something to lift my spirits."
+Output: "We recommend 'The Happiness Project' by Gretchen Rubin. This book provides practical advice on how to find joy in everyday life, which could help lift your spirits and provide a sense of hope."
+
+Input: "I'm anxious and can't seem to calm down."
+Output: "You might find 'The Anxiety and Phobia Workbook' by Edmund Bourne helpful. It's filled with exercises and techniques to help manage anxiety, making it a great resource when you're feeling overwhelmed."
+
+Input: "I'm feeling really down and need something inspirational."
+Output: "Consider reading 'Man's Search for Meaning' by Viktor Frankl. It's an inspirational book about finding purpose even in the darkest of times, which might resonate with how you're feeling right now."
+
+Input: "I feel lonely and need something comforting."
+Output: "We recommend 'Tuesdays with Morrie' by Mitch Albom. This touching story about the relationship between a student and his mentor might offer the comfort and connection you're looking for."
+
+Input: "I'm feeling stressed and need something to help me relax."
+Output: "Try reading 'The Little Book of Hygge' by Meik Wiking. This book offers simple ways to incorporate the Danish concept of Hygge into your life, which can help you relax and find joy in the small things."
+
+Input: "I'm in need of motivation and something to inspire me."
+Output: "You might enjoy 'You Are a Badass' by Jen Sincero. It's a motivational book filled with advice on how to overcome self-doubt and achieve your goals, perfect for when you need a boost of inspiration."
+
+Input: "I'm feeling bored and need something engaging to read."
+Output: "We recommend 'The Da Vinci Code' by Dan Brown. This thriller is packed with mystery and adventure, sure to keep you engaged and on the edge of your seat."
+
+Input: "I need something to help me focus and be more productive."
+Output: "Try reading 'Deep Work' by Cal Newport. This book offers strategies for focusing intensely on your tasks, which could help you boost productivity."
+
+Input: "I'm feeling nostalgic and want something that reminds me of childhood."
+Output: "You might enjoy 'The Little Prince' by Antoine de Saint-Exupéry. This timeless tale captures the innocence and wonder of childhood, reminding us of the importance of imagination and love."
+
+Input: "I feel overwhelmed and need something to ground me."
+Output: "Consider reading 'The Power of Now' by Eckhart Tolle. This book teaches the importance of living in the present moment, which could help you find peace and clarity during overwhelming times."
+
+Input: "I'm feeling adventurous and want something thrilling."
+Output: "We recommend 'Into the Wild' by Jon Krakauer. This true story of adventure and exploration will inspire you to embrace your own sense of adventure and explore the unknown."
+
+Input: "I'm feeling heartbroken and need something to mend my heart."
+Output: "Try reading 'Tiny Beautiful Things' by Cheryl Strayed. This collection of heartfelt advice offers wisdom and compassion, helping you heal from heartbreak and find strength."
+
+Input: "I feel curious and want something intellectually stimulating."
+Output: "You might enjoy 'Sapiens: A Brief History of Humankind' by Yuval Noah Harari. This book explores the history of humanity in a thought-provoking way, perfect for curious minds."
+
+Input: "I'm feeling lost and need something to guide me."
+Output: "Consider reading 'The Alchemist' by Paulo Coelho. This allegorical novel about a young shepherd's journey to find his personal legend will inspire you to follow your own path."
+
+Input: "I'm feeling disconnected and want something that explores human connection."
+Output: "We recommend 'Braving the Wilderness' by Brené Brown. This book explores the importance of belonging and human connection, encouraging you to embrace your authentic self."
+
+Input: "I'm feeling frustrated and need something to help me cope with challenges."
+Output: "Try reading 'The Obstacle Is the Way' by Ryan Holiday. This book draws on ancient Stoic philosophy to show how obstacles can become opportunities for growth and success."
+
+Input: "I'm feeling grateful and want something to deepen that feeling."
+Output: "You might enjoy 'Gratitude' by Oliver Sacks. This collection of essays reflects on the beauty of life and the importance of gratitude, deepening your appreciation for the present moment."
+
+Input: "I'm feeling hopeful and want something to nurture that hope."
+Output: "Consider reading 'Hope in the Dark' by Rebecca Solnit. This book explores the power of hope in uncertain times, encouraging you to keep faith in the possibility of positive change."
+
+Input: "I'm feeling restless and want something to calm my mind."
+Output: "We recommend 'Wherever You Go, There You Are' by Jon Kabat-Zinn. This book introduces mindfulness meditation as a way to calm the mind and find peace in the present moment."
+
+Input: "I'm feeling creative and want something to fuel my imagination."
+Output: "Try reading 'Big Magic' by Elizabeth Gilbert. This book offers insights into the creative process and encourages you to embrace your creative instincts without fear."
+
+Input: "I'm feeling angry and need something to help me cool down."
+Output: "You might enjoy 'Anger: Wisdom for Cooling the Flames' by Thich Nhat Hanh. This book offers practical advice on how to transform anger into compassion and understanding."
+
+Input: "I'm feeling insecure and need something to boost my confidence."
+Output: "Consider reading 'The Confidence Code' by Katty Kay and Claire Shipman. This book explores the science of confidence and offers practical tips for building self-assurance."
+
+Input: "I'm feeling guilty and need something to help me forgive myself."
+Output: "We recommend 'Radical Forgiveness' by Colin Tipping. This book offers a step-by-step process for forgiving yourself and others, helping you release guilt and find peace."
+
+Input: "I'm feeling jealous and need something to help me let go of envy."
+Output: "Try reading 'The Gifts of Imperfection' by Brené Brown. This book encourages you to embrace your own worth and let go of comparisons, helping you overcome feelings of jealousy."
+
+Input: "I'm feeling optimistic and want something to reinforce that positivity."
+Output: "You might enjoy 'The Art of Happiness' by the Dalai Lama and Howard Cutler. This book explores the nature of happiness and offers insights on how to cultivate a positive mindset."
+
+Input: "I'm feeling confused and need something to bring clarity."
+Output: "Consider reading 'Blink' by Malcolm Gladwell. This book explores the power of intuitive thinking and how quick decisions can sometimes lead to better outcomes."
+
+Input: "I'm feeling proud and want something to celebrate that feeling."
+Output: "We recommend 'Becoming' by Michelle Obama. This memoir celebrates personal growth and achievement, making it a perfect read when you're feeling proud of your accomplishments."
+
+Input: "I'm feeling content and want something to enhance that peace."
+Output: "Try reading 'The Book of Joy' by Dalai Lama and Desmond Tutu. This book is a conversation between two spiritual leaders on how to find and maintain joy in the face of life's challenges."
+
+Input: "I'm feeling stressed about work and need something to help me manage it."
+Output: "You might enjoy 'Essentialism: The Disciplined Pursuit of Less' by Greg McKeown. This book teaches the importance of focusing on what truly matters, which can help reduce work-related stress."
+
+Input: "I'm feeling happy and want something to keep the good vibes going."
+Output: "Consider reading 'The Happiness Advantage' by Shawn Achor. This book explores how happiness fuels success and provides strategies for maintaining a positive outlook."
+
+Input: "I'm feeling reflective and want something that makes me think deeply."
+Output: "We recommend 'Meditations' by Marcus Aurelius. This classic work of Stoic philosophy offers deep reflections on life, making it a perfect read when you're in a contemplative mood."
+
+Input: "I'm feeling ashamed and need something to help me overcome it."
+Output: "Try reading 'Daring Greatly' by Brené Brown. This book explores the power of vulnerability and how embracing it can help you overcome shame and build stronger connections."
+
+Input: "I'm feeling cheerful and want something to match my mood."
+Output: "You might enjoy 'The Rosie Project' by Graeme Simsion. This lighthearted and charming novel is full of humor and romance, making it a great match for your cheerful mood."
+
+Input: "I'm feeling ambitious and want something to fuel my drive."
+Output: "Consider reading 'Grit' by Angela Duckworth. This book explores the power of perseverance and passion, which can help you achieve your long-term goals."
+
+Input: "I'm feeling serene and want something to maintain that tranquility."
+Output: "We recommend 'The Tao of Pooh' by Benjamin Hoff. This book uses the characters of Winnie the Pooh to illustrate the principles of Taoism, offering wisdom on living a peaceful life."
+
+Input: "I'm feeling adventurous and want something that challenges my perspective."
+Output: "Try reading 'The Road' by Cormac McCarthy. This novel offers a harrowing yet beautiful journey through a post-apocalyptic world, challenging your perspective on life and survival."
+
+Input: "I'm feeling nostalgic and want something that takes me back in time."
+Output: "You might enjoy 'To Kill a Mockingbird' by Harper Lee. This classic novel explores themes of innocence and justice, transporting you back to a bygone era."
+
+Input: "I'm feeling inspired and want something that fuels my creativity."
+Output: "Consider reading 'The War of Art' by Steven Pressfield. This book offers insights into the creative process and how to overcome resistance to create your best work."
+
