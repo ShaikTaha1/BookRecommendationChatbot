@@ -1,7 +1,6 @@
-# BookRecommendationChatbot
 
 ```markdown
-# Book Recommendation System
+# Book Recommendation Chatbot
 
 This Book Recommendation System is a personalized application designed to suggest books to users based on their emotions and query context. The system uses natural language processing (NLP), sentiment analysis, and context-aware techniques to provide relevant book recommendations. It integrates with Weaviate, a vector search engine, for storing and retrieving user interactions and recommendations.
 
@@ -23,7 +22,7 @@ This Book Recommendation System is a personalized application designed to sugges
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/book-recommendation-system.git
+   git clone https://github.com/shaiktaha1/bookrecommendationchatbot.git
    cd book-recommendation-system
    ```
 
@@ -34,12 +33,12 @@ This Book Recommendation System is a personalized application designed to sugges
 
 3. Install additional dependencies if needed:
    ```bash
-   pip install weaviate-client transformers fastapi uvicorn
+   pip install weaviate-client transformers fastapi uvicorn streamlit
    ```
 
 ## Usage
 
-### Running the Application
+### Running the FastAPI Application
 
 1. Start the FastAPI server:
    ```bash
@@ -47,6 +46,15 @@ This Book Recommendation System is a personalized application designed to sugges
    ```
 
 2. Access the application by navigating to `http://127.0.0.1:8000` in your web browser.
+
+### Running the Streamlit Application
+
+1. Run the Streamlit app to access the user interface:
+   ```bash
+   streamlit run streamlit_app.py
+   ```
+
+2. The Streamlit app will open in your default web browser, or you can navigate to `http://localhost:8501` to interact with the application.
 
 ### Interacting with the Application
 
@@ -92,3 +100,6 @@ Contributions are welcome! Please follow these steps:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ```
+
+Replace the placeholder paths (`path-to-architecture-diagram.png` and `path-to-uml-diagram.png`) with the actual paths to the images in your repository.
+
