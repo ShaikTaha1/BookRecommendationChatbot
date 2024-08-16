@@ -109,7 +109,4 @@ Contributions are welcome! Please follow these steps:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-```
-
-Replace the placeholder paths (`path-to-architecture-diagram.png` and `path-to-uml-diagram.png`) with the actual paths to the images in your repository.
 
